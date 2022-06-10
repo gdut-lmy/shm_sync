@@ -1,4 +1,0 @@
-/home/lmy/processThread/build/CMakeFiles/read.dir
-/home/lmy/processThread/build/CMakeFiles/write.dir
-/home/lmy/processThread/build/CMakeFiles/edit_cache.dir
-/home/lmy/processThread/build/CMakeFiles/rebuild_cache.dir

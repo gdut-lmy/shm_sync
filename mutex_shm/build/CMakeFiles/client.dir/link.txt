@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/client.dir/shm_client.cpp.o -o client  -lpthread 

@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/write.dir/write.cpp.o -o write  -lpthread 

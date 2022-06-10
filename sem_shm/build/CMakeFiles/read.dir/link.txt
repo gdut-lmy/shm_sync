@@ -1,1 +1,0 @@
-/usr/bin/c++ CMakeFiles/read.dir/read.cpp.o -o read  -lpthread 
