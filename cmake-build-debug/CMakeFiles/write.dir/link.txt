@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/write.dir/basic_shm/write_shm.cpp.o -o write 

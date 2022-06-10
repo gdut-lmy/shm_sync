@@ -1,0 +1,4 @@
+/home/lmy/processThread/sem_shm/build/CMakeFiles/write.dir
+/home/lmy/processThread/sem_shm/build/CMakeFiles/read.dir
+/home/lmy/processThread/sem_shm/build/CMakeFiles/edit_cache.dir
+/home/lmy/processThread/sem_shm/build/CMakeFiles/rebuild_cache.dir

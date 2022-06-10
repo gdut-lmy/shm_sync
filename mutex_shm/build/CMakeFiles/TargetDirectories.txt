@@ -1,0 +1,4 @@
+/home/lmy/processThread/mutex_shm/build/CMakeFiles/client.dir
+/home/lmy/processThread/mutex_shm/build/CMakeFiles/server.dir
+/home/lmy/processThread/mutex_shm/build/CMakeFiles/edit_cache.dir
+/home/lmy/processThread/mutex_shm/build/CMakeFiles/rebuild_cache.dir
